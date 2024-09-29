@@ -5,7 +5,7 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Vue JS & React Native
 - 📫 How to reach me <a href="mailto:raymondk.yudiva@gmail.com"> raymondk.yudiva@gmail.com </a>
-- 🌐 Portfolio at <a href="https://kotonotes.com/"> Here </a>
+- 🌐 Portfolio at <a href="https://raymondkoto.my.id/"> Here </a>
 
 <!---
 koto-oprek/koto-oprek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
