@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Vue JS & React Native
-- 📫 How to reach me <a href="mailto:raymondk.yudiva@gmail.com"> raymondk.yudiva@gmail.com </a>
+- 📫 How to reach me <a href="mailto:raymondk.yudiva@gmail.com"> raymondkoto23@gmail.com </a>
 - 🌐 Portfolio at <a href="https://raymondkoto.my.id/"> Here </a>
 
 <!---
